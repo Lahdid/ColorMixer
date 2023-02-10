@@ -7,6 +7,7 @@
     tools:context=".WrongActivity">
 
     <TextView
+        android:id="@+id/sorryText"
         android:layout_width="269dp"
         android:layout_height="61dp"
         android:layout_marginTop="76dp"
